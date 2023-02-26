@@ -4,7 +4,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables
-![QuickDBD-export](https://user-images.githubusercontent.com/120171721/218944583-f8e02768-6407-415b-94de-edd9620999a0.png)
+![Screenshot 2023-02-25 at 11 10 45 PM](https://user-images.githubusercontent.com/120171721/221398341-c0838428-46db-4811-8be6-2e49be43814d.png)
 
 
 ## Data Engineering
